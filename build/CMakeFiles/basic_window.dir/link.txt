@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/basic_window.dir/main.c.o  -o basic_window  -lm -Wl,-Bstatic -lSDL2main -Wl,-Bdynamic -lSDL2 -lpthread 
